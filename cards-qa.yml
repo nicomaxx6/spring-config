@@ -1,11 +1,11 @@
 build:
-  version: "v2.0"
+  version: "v2.0.0"
 
 contact:
-  message: "Bank System - /Accounts API"
+  message: "Bank System - /Cards API"
   details:
-    name: "Maria Perez - QA Lead"
-    email: "maria.perez@mail.com"
+    name: "Angie Perez - QA Lead"
+    email: "angie.perez@mail.com"
   phone-numbers:
     - "(57) 312-564-9845"
     - "(57) 320-965-8795"
