@@ -1,0 +1,11 @@
+build:
+  version: "v3.0"
+
+contact:
+  message: "Bank System - /Accounts API"
+  details:
+    name: "Nicolas Almanzar Espitia - Developer"
+    email: "almanzarn@globalhitss.com"
+  phone-numbers:
+    - "(57) 312-564-9845"
+    - "(57) 320-965-8795"
