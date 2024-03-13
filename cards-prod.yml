@@ -1,11 +1,11 @@
 build:
-  version: "v1.0"
+  version: "v1.0.0"
 
 contact:
-  message: "Bank System - /Accounts API"
+  message: "Bank System - /Cards API"
   details:
-    name: "Mario moreno - Product Owner"
-    email: "mario.moreno@mail.com"
+    name: "Carla moreno - Product Owner"
+    email: "carla.moreno@mail.com"
   phone-numbers:
     - "(57) 312-564-9845"
     - "(57) 320-965-8795"
